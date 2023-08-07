@@ -1,0 +1,11 @@
+D:\assignemt exercise\Assignment-24\ConsoleAppAssignment24_Main\ConsoleAppAssignment24_Main\bin\Debug\ConsoleAppAssignment24_Main.exe.config
+D:\assignemt exercise\Assignment-24\ConsoleAppAssignment24_Main\ConsoleAppAssignment24_Main\bin\Debug\ConsoleAppAssignment24_Main.exe
+D:\assignemt exercise\Assignment-24\ConsoleAppAssignment24_Main\ConsoleAppAssignment24_Main\bin\Debug\ConsoleAppAssignment24_Main.pdb
+D:\assignemt exercise\Assignment-24\ConsoleAppAssignment24_Main\ConsoleAppAssignment24_Main\bin\Debug\ConAppAssignment24.dll
+D:\assignemt exercise\Assignment-24\ConsoleAppAssignment24_Main\ConsoleAppAssignment24_Main\bin\Debug\ConAppAssignment24.pdb
+D:\assignemt exercise\Assignment-24\ConsoleAppAssignment24_Main\ConsoleAppAssignment24_Main\obj\Debug\ConsoleAppAssignment24_Main.csproj.AssemblyReference.cache
+D:\assignemt exercise\Assignment-24\ConsoleAppAssignment24_Main\ConsoleAppAssignment24_Main\obj\Debug\ConsoleAppAssignment24_Main.csproj.SuggestedBindingRedirects.cache
+D:\assignemt exercise\Assignment-24\ConsoleAppAssignment24_Main\ConsoleAppAssignment24_Main\obj\Debug\ConsoleAppAssignment24_Main.csproj.CoreCompileInputs.cache
+D:\assignemt exercise\Assignment-24\ConsoleAppAssignment24_Main\ConsoleAppAssignment24_Main\obj\Debug\ConsoleAppAssignment24_Main.csproj.CopyComplete
+D:\assignemt exercise\Assignment-24\ConsoleAppAssignment24_Main\ConsoleAppAssignment24_Main\obj\Debug\ConsoleAppAssignment24_Main.exe
+D:\assignemt exercise\Assignment-24\ConsoleAppAssignment24_Main\ConsoleAppAssignment24_Main\obj\Debug\ConsoleAppAssignment24_Main.pdb
